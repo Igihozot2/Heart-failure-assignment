@@ -46,6 +46,7 @@ The following Python libraries are required to run the notebook:
 - Numpy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
 To install these libraries, run:
 ```bash
